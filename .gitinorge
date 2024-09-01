@@ -1,0 +1,12 @@
+./.vs/
+./.vscode/
+./Algorithm/
+./C++/
+./C/
+./Cmake/
+./Container/
+./Design_Pattern/
+./FreeRTOS/
+./Makefile/
+./cmd_bash/
+./geeksforgeeks/
